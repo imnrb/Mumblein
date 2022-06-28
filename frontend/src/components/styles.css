@@ -1,0 +1,22 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+.input{
+width: 50rem;
+}
+.form1{
+    display: flex;
+}
+.emoji{
+   margin-top: 10px;
+  border-radius: 10px;
+   margin-right: 20px;
+}
+.sendbutton{
+    margin-top: 5px;
+   /* border-radius: 10px; */
+    margin-left: 20px;
+ }
